@@ -5,7 +5,6 @@ In this activity, you'll use the dive into a dataset from a fictional e-commerce
 
 ## Instructions
 
-### Using the `resample` Function
 
 1. Use the provided code to read in the client_dataset.csv file into a DataFrame, clean the data
 
