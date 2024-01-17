@@ -8,7 +8,7 @@ In this activity, you'll use the dive into a dataset from a fictional e-commerce
 
 1. Use the provided code to read in the client_dataset.csv file into a DataFrame, clean the data
 
-2.find out What three item categories had the most entries
+2. find out What three item categories had the most entries
 
 3. find  For the category with the most entries,which subcategory had the most entries
 
